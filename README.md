@@ -37,6 +37,8 @@ The model achieved:
 
 A confusion matrix was generated, which helped us evaluate the model's performance further.
 
+![confusion matrix](https://github.com/preetham-1601/Twitter-Sentiment-Analysis-Using-Python/blob/main/Screenshot%20(368).png)
+
 ## Limitations and Potential Improvements
 
 The use of a larger dataset and fine-tuning hyperparameters could potentially enhance the model's performance. Addressing potential bias in data collection and employing a diverse set of hashtags for tweet extraction could also improve the project outcomes.
